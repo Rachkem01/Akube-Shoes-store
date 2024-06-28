@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rachkem01/Akube-Shoes-store/static/css/main.d187c320.css",
+    "main.js": "/Rachkem01/Akube-Shoes-store/static/js/main.3dfde2aa.js",
+    "static/js/453.19dafe61.chunk.js": "/Rachkem01/Akube-Shoes-store/static/js/453.19dafe61.chunk.js",
+    "static/media/AkubeLogo.png": "/Rachkem01/Akube-Shoes-store/static/media/AkubeLogo.198e828074d58329a33d.png",
+    "index.html": "/Rachkem01/Akube-Shoes-store/index.html",
+    "main.d187c320.css.map": "/Rachkem01/Akube-Shoes-store/static/css/main.d187c320.css.map",
+    "main.3dfde2aa.js.map": "/Rachkem01/Akube-Shoes-store/static/js/main.3dfde2aa.js.map",
+    "453.19dafe61.chunk.js.map": "/Rachkem01/Akube-Shoes-store/static/js/453.19dafe61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d187c320.css",
+    "static/js/main.3dfde2aa.js"
+  ]
+}
